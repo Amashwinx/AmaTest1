@@ -9,5 +9,8 @@
 <body>
     <h1>Init</h1>
     <h1>Amasha and Sanka </h1>
+    <p>
+        hi this is my first repository.
+    </p>
 </body>
 </html>
